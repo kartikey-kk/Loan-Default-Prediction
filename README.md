@@ -1,4 +1,10 @@
-# 💼 Loan Default Prediction with Random Forest
+# Loan Default Prediction with Random Forest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-RandomForest-yellow?logo=scikit-learn" />
+</p>
 
 > 🎯 A complete pipeline for predicting loan defaults using a well-tuned Random Forest classifier — featuring data cleaning, feature engineering, hyperparameter optimization, evaluation metrics, and visualizations.
 
